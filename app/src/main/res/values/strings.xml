@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NotificationsImplements</string>
+
+    <string name="channel_name">Canal d\'essai 1</string>
+    <string name="channel_description">Il s’agit d’un canal de test de niveau élevé, où les lumières, le son et les vibrations sont actifs.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
