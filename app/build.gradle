@@ -5,10 +5,10 @@ android {
     buildToolsVersion "29.0.1"
     defaultConfig {
         applicationId "com.mbia.cyrille.notificationsimplements"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
-        versionName "1.0"
+        versionName "1.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
